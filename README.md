@@ -2,7 +2,7 @@
 
 # CSV Mapper
 
-A lightweight, browser-based tool for mapping CSV data to predefined templates without server dependencies.
+A lightweight, browser-based tool for mapping CSV data without server dependencies.
 
 ![CSV Mapper Screenshot](./screenshots/csv-mapper-screenshot.png)
 
